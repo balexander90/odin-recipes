@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I will create my first website. It will be a main page linking 3 different recipes so everyone can eat my favorite food!
